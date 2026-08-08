@@ -95,11 +95,11 @@ current_status: "Building, learning and improving every day."
   <img src="https://img.shields.io/badge/GitHub-120C06?style=for-the-badge&logo=github&logoColor=FFB627" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/rodrigokuerten/">
   <img src="https://img.shields.io/badge/LinkedIn-120C06?style=for-the-badge&logo=linkedin&logoColor=FFB627" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:rodrigokuerten31@gmail.com">
   <img src="https://img.shields.io/badge/Email-120C06?style=for-the-badge&logo=gmail&logoColor=FFB627" alt="Email"/>
 </a>
 
