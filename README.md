@@ -99,7 +99,7 @@ current_status: "Building, learning and improving every day."
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00E7FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:rodrigokuerten31@gmail.com">
 <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00E7FF"/>
 </a>
 
@@ -109,35 +109,11 @@ current_status: "Building, learning and improving every day."
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│      > CONNECTION REQUEST                                │
-│                                                          │
-│      Status: ACCEPTING NEW IDEAS                         │
-│      Protocol: OPEN SOURCE                               │
-│      Response: COLLABORATION ENABLED                     │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM INFORMATION`
-
-<img src="https://komarev.com/ghpvc/?username=RodrigoKuerten&label=PROFILE+VIEWS&color=00eaff&style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+BUILDING+THE+NEXT+VERSION+%5D;%5B+THANKS+FOR+VISITING+%5D" />
 
 <br>
 
-```text
+```text id="jyig76"
 RODRIGO.KUERTEN // DEVELOPER SYSTEM
 ──────────────────────────────────────────────────────────
 © 2026 // Built with code, curiosity and caffeine.
