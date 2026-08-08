@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,40:07182e,70:0f3d57,100:00eaff&text=RODRIGO%20KUERTEN&fontColor=E6F7FF&fontSize=46&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:120C06,35:3B210C,70:B8660B,100:FFD166&text=RODRIGO%20KUERTEN&fontColor=FFF4D6&fontSize=46&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=15&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+JAVA+%7C+SPRING+BOOT+%7C+ANGULAR...;%3E+CONNECTING+TO+DATABASE...;%3E+BUILDING+SCALABLE+SYSTEMS...;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%93" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFB627&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+JAVA+%7C+SPRING+BOOT+%7C+ANGULAR...;%3E+CONNECTING+TO+DATABASE...;%3E+BUILDING+SCALABLE+SYSTEMS...;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%93" alt="Typing Animation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00eaff?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BUILDING-FULL_STACK_SYSTEMS-7c3aed?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-22c55e?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FFB627?style=for-the-badge&labelColor=120C06&color=FFB627"/>
+<img src="https://img.shields.io/badge/BUILDING-FULL_STACK_SYSTEMS-D97706?style=for-the-badge&labelColor=120C06&color=D97706"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-F59E0B?style=for-the-badge&labelColor=120C06&color=F59E0B"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## `> ABOUT_ME.exe`
 
-```yaml id="t0fqqf"
+```yaml id="c7fqad"
 name: Rodrigo Kuerten
 role: Full Stack Developer
 location: Brazil
@@ -71,15 +71,15 @@ current_status: "Building, learning and improving every day."
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Backend-C46A0A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-API-A16207?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-Frontend-B45309?style=for-the-badge&logo=angular&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-Frontend-D97706?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-EA8C0C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containers-F59E0B?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -92,37 +92,27 @@ current_status: "Building, learning and improving every day."
 <div align="center">
 
 <a href="https://github.com/RodrigoKuerten">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00E7FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-120C06?style=for-the-badge&logo=github&logoColor=FFB627" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00E7FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-120C06?style=for-the-badge&logo=linkedin&logoColor=FFB627" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00E7FF" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-120C06?style=for-the-badge&logo=gmail&logoColor=FFB627" alt="Email"/>
 </a>
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+BUILDING+THE+NEXT+VERSION+%5D;%5B+THANKS+FOR+VISITING+%5D" alt="System Status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=D99A2B&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+BUILDING+THE+NEXT+VERSION+%5D;%5B+THANKS+FOR+VISITING+%5D" alt="System Status"/>
 
 <br><br>
 
-<code>RODRIGO.KUERTEN // DEVELOPER SYSTEM</code>
-
-<br><br>
-
-<sub>© 2026 // Built with code, curiosity and caffeine.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00eaff,50:07182e,100:020617&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFD166,35:B8660B,70:3B210C,100:120C06&section=footer"/>
 
 </div>
