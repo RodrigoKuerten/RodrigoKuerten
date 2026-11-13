@@ -1,118 +1,37 @@
-<div align="center">
+<img src="./assets/header.svg" alt="Rodrigo Kuerten — Desenvolvedor Java e Full Stack" width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:120C06,35:3B210C,70:B8660B,100:FFD166&text=RODRIGO%20KUERTEN&fontColor=FFF4D6&fontSize=46&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=15&animation=fadeIn"/>
+## Sobre
 
-<br>
+Sou desenvolvedor em início de carreira e atuo como Jovem Aprendiz na área de tecnologia. Meu foco é Java e Spring Boot; também trabalho com Angular, Vue.js e desenvolvimento Android com Java.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFB627&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+JAVA+%7C+SPRING+BOOT+%7C+ANGULAR...;%3E+CONNECTING+TO+DATABASE...;%3E+BUILDING+SCALABLE+SYSTEMS...;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%93" alt="Typing Animation" />
+Gosto de começar pelo problema: modelo de dados, contrato da API e escopo antes da primeira linha de código. Meu objetivo agora é ganhar profundidade em arquitetura e qualidade de código, mantendo os sistemas simples conforme crescem. Também me interessam automações, OCR e integrações entre sistemas.
 
-<br>
+## Tecnologias
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FFB627?style=for-the-badge&labelColor=120C06&color=FFB627"/>
-<img src="https://img.shields.io/badge/BUILDING-FULL_STACK_SYSTEMS-D97706?style=for-the-badge&labelColor=120C06&color=D97706"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-F59E0B?style=for-the-badge&labelColor=120C06&color=F59E0B"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,angular,vue,androidstudio,ts,mysql,docker,git,linux&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,androidstudio,ts,mysql,docker,git,linux&amp;theme=light" alt="Java, Spring Boot, Angular, Vue.js, Android Studio, TypeScript, MySQL, Docker, Git e Linux">
+  </picture>
+</p>
 
-</div>
+## Projetos
 
-<br>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[E-commerce Backend](https://github.com/RodrigoKuerten/eccomerce)** | API REST com autenticação, catálogo de produtos e gestão de pedidos. | Java · Spring Boot · Spring Security · Spring Data JPA · MySQL |
+| **[Electro Finance](https://github.com/RodrigoKuerten/Electro-Finance)** | Controle de finanças pessoais com receitas, despesas e movimentações por usuário. [Demo](https://electro-finance-ten.vercel.app) | Angular · Spring Boot · MySQL · Docker |
+| **[Skills Launcher](https://github.com/RodrigoKuerten/skills-launcher)** | Gerenciador desktop multiplataforma para descobrir, instalar e atualizar skills de agentes de IA. | TypeScript · Rust · Tauri |
 
-## `> ABOUT_ME.exe`
+## GitHub
 
-```yaml id="c7fqad"
-name: Rodrigo Kuerten
-role: Full Stack Developer
-location: Brazil
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RodrigoKuerten&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=contribs&amp;include_all_commits=true&amp;locale=pt-br&amp;disable_animations=true&amp;bg_color=0B1D33&amp;title_color=93C5FD&amp;text_color=F8FAFC&amp;icon_color=3B82F6">
+    <img src="https://github-stats-extended.vercel.app/api?username=RodrigoKuerten&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=contribs&amp;include_all_commits=true&amp;locale=pt-br&amp;disable_animations=true&amp;bg_color=F1F5F9&amp;title_color=0B1D33&amp;text_color=334155&amp;icon_color=2563EB" alt="Estatísticas públicas de Rodrigo Kuerten no GitHub">
+  </picture>
+</p>
 
-main_stack:
-  backend:
-    - Java
-    - Spring Boot
-    - REST APIs
-    - Hibernate / JPA
+## Contato
 
-  frontend:
-    - Angular
-    - AngularJS
-    - TypeScript
-    - JavaScript
-
-  database:
-    - MySQL
-
-  infrastructure:
-    - Docker
-    - Linux
-    - Git
-
-current_status: "Building, learning and improving every day."
-```
-
----
-
-## `> TECH_STACK`
-
-<div align="center">
-
-### `CORE SYSTEM`
-
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css&theme=dark" alt="Core Technologies"/>
-
-<br>
-
-### `DATA & INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github,maven&theme=dark" alt="Data and Infrastructure"/>
-
-<br>
-
-### `DEVELOPMENT ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,npm,nodejs&theme=dark" alt="Development Environment"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-Backend-C46A0A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-API-A16207?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-Frontend-B45309?style=for-the-badge&logo=angular&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/TypeScript-Frontend-D97706?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-EA8C0C?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-F59E0B?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
-<br>
-
----
-
-## `> NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/RodrigoKuerten">
-  <img src="https://img.shields.io/badge/GitHub-120C06?style=for-the-badge&logo=github&logoColor=FFB627" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rodrigokuerten/">
-  <img src="https://img.shields.io/badge/LinkedIn-120C06?style=for-the-badge&logo=linkedin&logoColor=FFB627" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:rodrigokuerten31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-120C06?style=for-the-badge&logo=gmail&logoColor=FFB627" alt="Email"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=D99A2B&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+BUILDING+THE+NEXT+VERSION+%5D;%5B+THANKS+FOR+VISITING+%5D" alt="System Status"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFD166,35:B8660B,70:3B210C,100:120C06&section=footer"/>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/rodrigokuerten/) · [GitHub](https://github.com/RodrigoKuerten) · [Portfólio](https://rodrigokuerten.vercel.app) · [E-mail](mailto:rodrigokuerten31@gmail.com)

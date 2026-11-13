@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">Rodrigo Kuerten — Desenvolvedor Java e Full Stack</title>
+  <desc id="desc">Banner com o nome Rodrigo Kuerten, desenvolvedor Java e Full Stack, Brasil.</desc>
+
+  <rect width="1200" height="300" fill="#0B1D33"/>
+  <rect width="1200" height="4" fill="#2563EB"/>
+
+  <text x="80" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#93C5FD">DESENVOLVEDOR JAVA · FULL STACK</text>
+
+  <text x="80" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1" fill="#F8FAFC">Rodrigo Kuerten</text>
+
+  <text x="80" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#CBD5E1">APIs REST, aplicações web e Android.</text>
+
+  <line x1="80" y1="252" x2="940" y2="252" stroke="#1E3A5F" stroke-width="1"/>
+
+  <g transform="translate(1000 96)">
+    <rect width="120" height="120" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+    <text x="60" y="75" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="2" fill="#F8FAFC">RK</text>
+  </g>
+
+  <text x="1120" y="270" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#94A3B8">BRASIL</text>
+</svg>
