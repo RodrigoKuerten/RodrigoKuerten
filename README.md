@@ -8,7 +8,7 @@
 
 Sou desenvolvedor de software em início de carreira e atuo como Jovem Aprendiz na área de tecnologia. Meu foco principal é o desenvolvimento backend com **Java** e **Spring Boot**, construindo APIs REST, rotinas de automação, processamento de documentos via OCR e integrações entre sistemas.
 
-Também desenvolvo interfaces web com **Angular** e **Vue.js**, aplicações móveis **Android (Java)** e trabalho com modelagem e consultas em bancos de dados **SQL**. Tenho interesse constante em arquitetura de software, qualidade de código, boas práticas de engenharia e escalabilidade.
+Também desenvolvo interfaces web com **Angular**, aplicações móveis **Android (Java)** e trabalho com modelagem e consultas em bancos de dados **SQL**. Tenho interesse constante em arquitetura de software, qualidade de código, boas práticas de engenharia e escalabilidade.
 
 <br />
 
@@ -24,7 +24,7 @@ Também desenvolvo interfaces web com **Angular** e **Vue.js**, aplicações mó
   <tr>
     <td width="220px"><strong>Frontend & Mobile</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=angular,vue,androidstudio,ts,js,html,css&theme=dark" alt="Frontend e Mobile" />
+      <img src="https://skillicons.dev/icons?i=angular,androidstudio,ts,js,html,css&theme=dark" alt="Frontend e Mobile" />
     </td>
   </tr>
   <tr>
